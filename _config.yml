@@ -5,11 +5,12 @@ baseurl: ''
 # compass configuration
 compass:
   # an avatar or logo (optional)
-  logo: "/images/compass.png"
+  logo: "/images/octopus.png"
   # author will appear under the avatar (optional)
   author: "Shweta Prasad"
   # tagline will appear under the title (optional)
-  tagline: "The <a href='http://shw3ta.github.io/shweta.github.io'>Shweta Prasad</a> theme for your personal landing page"
+  tagline: "Aspiring Computational Neuroscientist & Neuroethologist. Undergraduate reseacher at Dr. K Bittu's Neuroethology Lab, Ashoka University. Musician. Illustrator. Writer. Woman in Computer Science."
+  # <a href='http://shw3ta.github.io/shweta.github.io'>Shweta Prasad</a> 
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
@@ -18,7 +19,7 @@ compass:
   # Tracking Code to that file.
   include_analytics: false
   # Twitter @username (as defined by the Twitter Card specs)
-  twitter: "compass"
+  twitter: "tundra_theraimy"
 
 # exclude
 exclude: ["CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
