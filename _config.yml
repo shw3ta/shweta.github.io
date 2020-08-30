@@ -1,5 +1,5 @@
 # general configuration
-url: http://shweta.github.io
+url: http://shw3ta.github.io/shweta.github.io
 baseurl: ''
 
 # compass configuration
@@ -9,7 +9,7 @@ compass:
   # author will appear under the avatar (optional)
   author: "Shweta Prasad"
   # tagline will appear under the title (optional)
-  tagline: "The <a href='http://shweta.github.io'>Shweta Prasad</a> theme for your personal landing page"
+  tagline: "The <a href='http://shw3ta.github.io/shweta.github.io'>Shweta Prasad</a> theme for your personal landing page"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
