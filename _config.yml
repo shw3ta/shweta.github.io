@@ -1,5 +1,5 @@
 # general configuration
-url: http://shw3ta.github.io/shweta.github.io
+url: " "
 baseurl: ''
 
 # compass configuration
@@ -9,7 +9,7 @@ compass:
   # author will appear under the avatar (optional)
   author: "Shweta Prasad"
   # tagline will appear under the title (optional)
-  tagline: "Aspiring Computational Neuroscientist & Neuroethologist. Undergraduate reseacher at Dr. K Bittu's Neuroethology Lab, Ashoka University. Musician. Illustrator. Writer. Woman in Computer Science."
+  tagline: "Computational Biology. Senior, Ashoka University."
   # <a href='http://shw3ta.github.io/shweta.github.io'>Shweta Prasad</a> 
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
