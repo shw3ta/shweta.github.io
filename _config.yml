@@ -7,9 +7,10 @@ compass:
   # an avatar or logo (optional)
   logo: "/images/octopus.png"
   # author will appear under the avatar (optional)
-  author: "Shweta Prasad"
+  author: "shweta prasad"
   # tagline will appear under the title (optional)
-  tagline: "Computational Biology. Senior, Ashoka University."
+  tagline: "computer science & biology"
+  email: "shweta.prasad_ug21@ashoka.edu.in"
   # <a href='http://shw3ta.github.io/shweta.github.io'>Shweta Prasad</a> 
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
